@@ -1,0 +1,6 @@
+﻿*nix => nix
+product manager, product менеджер => pm
+entity framework => ef
+sql server, mssql, ms sql server, microsoft sql => sqlserver
+административно-хозяйственного отдела,административно-хозяйственное обеспечение, административно хозяйственное обеспечение => ахо
+ralugna => angular.js

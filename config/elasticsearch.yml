@@ -1,0 +1,6 @@
+cluster.name: ${CLUSTER_NAME}
+node.name: ${NODE_NAME}
+http.cors.enabled: true
+network.host: 0.0.0.0
+marvel.enabled: false
+marvel.agent.enabled: false
